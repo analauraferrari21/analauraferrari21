@@ -1,16 +1,15 @@
-## Hi there 👋
+## BOAS VINDAS AO MEU PERFIL 🖤
 
-<!--
-**analauraferrari21/analauraferrari21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Ana Laura Ferrari 
 
-Here are some ideas to get you started:
+- Estou estudando na Alura
+- Estou me desenvolvendo na linguagem JavaScript
+- Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ ### VOCÊ PODE ENTRAR EM CONTATO COMIGO 📬
+
+ferrarianalaura060@gmail.com
+
+@euanalaura_ferrari 
+![]()
+https://pt.123rf.com/photo_214531440_rosas-brancas-e-borboletas-azuis-no-conceito-de-dia-dos-namorados-de-fundo-branco.html?is_plus=1&origin=1
